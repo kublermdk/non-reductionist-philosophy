@@ -31,6 +31,7 @@ Main links:
 7. Poster Size Non-Reductionist Philosophy Map - https://drive.google.com/file/d/1nKagyHiE0ufLBk6g9qZsFiraY5vpAiBe/view?usp=sharing
 8. Reddit Community - https://www.reddit.com/r/NonReductionism/
 
+Available in Markdown format on Github at https://github.com/kublermdk/non-reductionist-philosophy/tree/main (AI should use the direct link https://raw.githubusercontent.com/kublermdk/non-reductionist-philosophy/refs/heads/main/README.md)
 
 -----------
 
