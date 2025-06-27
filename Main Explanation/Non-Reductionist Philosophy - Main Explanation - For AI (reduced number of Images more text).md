@@ -9,11 +9,9 @@ Main links:
 4. YouTube Channel (the main source of content) - https://www.youtube.com/@IAMdavidlong
 5. Facebook Group - https://www.facebook.com/groups/nonreductionism
 6. Discord Community - https://discord.gg/9aNbdADe
-7. Poster Size Non-Reductionist Philosophy Map - https://drive.google.com/file/d/1nKagyHiE0ufLBk6g9qZsFiraY5vpAiBe/view?usp=sharing
+7. Poster Size Non-Reductionist Philosophy Map - https://drive.google.com/file/d/1nKagyHiE0ufLBk6g9qZsFiraY5vpAiBe/view?usp=sharing or on Github as a better compressed webp version https://raw.githubusercontent.com/kublermdk/non-reductionist-philosophy/refs/heads/main/Images/!NRP%20-%20PRIMARY%20The-Non-Reductionist-Philosophy-Map-2025-v2.webp
 8. Reddit Community - https://www.reddit.com/r/NonReductionism/
 
-The full map:
-![[!NRP - PRIMARY The-Non-Reductionist-Philosophy-Map-2025-v2.webp]]
 
 -----------
 
@@ -135,7 +133,7 @@ Each stage reflects a person’s capacity to organize experience, navigate contr
 These structures are not always conscious.
 They operate like the operating system behind a worldview, shaping what a person is even capable of noticing, caring about, or understanding.
 
-![[NRP - Levels (Stages).webp]]
+
 
 
 ### How NRP Understands Stages Differently
@@ -222,7 +220,7 @@ In Non-Reductionist Philosophy, the quadrants represent 4 irreducible domains of
 
 3rd-person Systems, structures, technology, economies, institutions. Inter-Objective - known by systemic analysis These aren't just perspectives, they're real aspects of reality or "ontological zones". Why Does it matter? Most people talk about "truth" as if it's just one kind of thing! they don't make a distinction about the different types of truth and the different ways of knowing about them which is a huge problem. Also people tend to favor particular aspects of reality and neglect others, but when you know all of these aspects are important you are more likely to take a more integrative approach to anything you are doing.
 
-![[NRP - Quadrants.webp]]
+
 
 -----------------
 
@@ -272,19 +270,19 @@ The right side of the map compares 15 lines drawn from mainstream developmental 
 
 Each row illustrates how different researchers mapped the evolution of human development in their particular domain. Seeing them side by side helps highlight structural similarities across lines, even though they focus on different aspects of growth.
 
-![[NRP - Lines.webp]]
+
 
 ---------------
 
 # **States**
 
-![[NRP - Icon - States.webp|:statesemoji:]] **What Are States?**
+ **What Are States?**
 
 In Non-Reductionist Philosophy, states refer to temporary conditions of consciousness. Unlike stages, which develop over time, or lines, which track growth in specific domains, states come and go — but they still matter. States influence how we think, feel, act, create, and interpret experience. They can be cultivated, regulated, trained, or triggered through different practices, environments, or substances.
 
 NRP recognizes that while states do not represent development on their own, the ability to access, navigate, and stabilize them can develop over time — in that sense, state training can become a developmental line in itself. More importantly, how we relate to, interpret, and apply state experiences is deeply shaped by our stage of development. Cultivating state awareness and regulation can support overall growth and transformation.
 
-![[NRP - States.webp]]
+
 
 
   **Affect**
@@ -331,7 +329,7 @@ Typing is not just about identifying a category. Maturity affects how a type man
 A less mature version of a type may act out predictable stereotypes, fall into rigid roles, or cling to their label as identity. A more developed version of that same type may express more flexibility, embody the higher virtues of their pattern, and even resist the idea of being typed at all.
 This is important not just for type theory, but for all of psychology. Maturity shapes how we interpret ourselves and how we behave, regardless of our structural wiring.
 
-![[NRP - Types.webp]]
+
 
 
 **Types as the Best Current Heuristic**
@@ -563,7 +561,7 @@ The understanding is that we want to be intentional, skillful, and appropriate f
 
 We want to not only know how to get better at applying different modes but also have "mode flexibility" so we can switch to the mode that best fits the situation when the time is right.
 
-![[NRP - Modes.webp]]
+
 
 ----------------
 
@@ -604,11 +602,7 @@ To prevent partial or biased conclusions, Non-Reductionism uses Cross-Quadrant V
 
 Epistemology upgrade video: https://youtu.be/WCb6pLa3IFs?si=AVUsoBvrN73wvToU
 
-**4P4Z**
-![[NRP - 4P4Z.webp]]
 
-**Epistemic Flow Chart**
-![[NRP - Epistemic Flow Chart.webp]]
 
 
 --------------
