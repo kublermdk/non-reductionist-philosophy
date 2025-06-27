@@ -19,22 +19,22 @@ Main links:
 Here’s a quick guide to the main tools represented in the map and used throughout this server: 
 6 Main Elements: 
 
-![[NRP - Icon - Quadrants.webp|:Quademoji:]] **Quadrants**
+![Icon - Quadrants](/Images/NRP%20-%20Icon%20-%20Quadrants.webp) **Quadrants**
 Four irreducible aspect of reality: subjective, objective, cultural, and systemic. These help us locate any claim, idea, or phenomenon across experience and reality.
 
-![[NRP - Icon - Levels, Spiral.webp|:Spiralemoji:]] **Levels** 
+![Icon - Levels, Spiral](/Images/NRP%20-%20Icon%20-%20Levels,%20Spiral.webp) **Levels** 
 Developmental stages across personal and cultural evolution. These show how meaning-making grows over time, and how people interpret the world differently based on structure.
 
-![[NRP - Icon - Lines.webp|:linesemoji:]] **Lines**
+![Icon - Lines](/Images/NRP%20-%20Icon%20-%20Lines.webp) **Lines**
 Specific domains of development (like morality, cognition, art, or identity). Each one grows through its own path of unfolding. This map includes "Multiple Intelligences" as well as 15 different lines explored by developmental psychologists.
 
-![[NRP - Icon - States.webp|:statesemoji:]] **States**
+![Icon - States](/Images/NRP%20-%20Icon%20-%20States.webp) **States**
 Temporary modes of consciousness (like flow, dreams, or altered states). These are not developmental, but they are interpreted through developmental structure.
 
-![[NRP - Icon - Types.webp|:typesemoji:]] **Types**
+![Icon - Types](/Images/NRP%20-%20Icon%20-%20Types.webp) **Types**
 Enduring patterns like personality, temperament, or orientation. (MBTI, Enneagram, OCEAN, etc.) It's important to understand how people express development differently.
 
-![[NRP - Icon - Modes and Roles.webp|:modesemoji:]] **Modes & Roles**
+![Icon - Modes and Roles](/Images/NRP%20-%20Icon%20-%20Modes%20and%20Roles.webp) **Modes & Roles**
 How we act in the world: attention, willpower, focus, and our roles within systems. These are skills and postures we develop to engage with life intentionally.
 
 
@@ -68,7 +68,7 @@ Not all knowledge is equally accessible. This model distinguishes what is known,
 
 The map also includes tools related to "Primacy" or understanding how the quadrants relate to each other or are valued differently depending on the project:
 
-![[NRP - Icon - Nested Quadratic Holons.webp|:NQH:]] **Nested Quadratic Holons** (NQH)
+![Icon - Nested Quadratic Holons](/Images/NRP%20-%20Icon%20-%20Nested%20Quadratic%20Holons.webp) **Nested Quadratic Holons** (NQH)
 
 This tool shows how to properly nest domains of reality in relation to specific topics or projects. It helps us identify which aspects are more fundamental and how others must be nested within them depending on context.
 This prevents category errors and false equivalencies, and ensures that our models remain accurate, grounded, and practically usable.
@@ -116,7 +116,7 @@ Non-Reductionism is for thinkers, leaders, creators, and systems designers who a
     We are not just critics or commentators; we are builders of what is needed. Non-Reductionism is not just about noticing what's wrong or having complex ideas. It is about creating what is missing. Once we understand development, coherence, and context, the ethical response is action. That means participating in the design of systems, practices, and cultures that reflect what we’ve come to know. Whether through frameworks, education, art, or leadership, we move beyond critique and conversation into contribution. Insight is not enough. Integrity means building.
 
 
-![[NRP -  David Comandments (principles).webp]]
+![ David Comandments (principles)](/Images/NRP%20-%20%20David%20Comandments%20(principles).webp)
 
 -------
 
@@ -133,7 +133,7 @@ Each stage reflects a person’s capacity to organize experience, navigate contr
 These structures are not always conscious.
 They operate like the operating system behind a worldview, shaping what a person is even capable of noticing, caring about, or understanding.
 
-![[NRP - Levels (Stages).webp]]
+![Levels (Stages)](/Images/NRP%20-%20Levels%20(Stages).webp)
 
 
 ### How NRP Understands Stages Differently
@@ -220,13 +220,13 @@ In Non-Reductionist Philosophy, the quadrants represent 4 irreducible domains of
 
 3rd-person Systems, structures, technology, economies, institutions. Inter-Objective - known by systemic analysis These aren't just perspectives, they're real aspects of reality or "ontological zones". Why Does it matter? Most people talk about "truth" as if it's just one kind of thing! they don't make a distinction about the different types of truth and the different ways of knowing about them which is a huge problem. Also people tend to favor particular aspects of reality and neglect others, but when you know all of these aspects are important you are more likely to take a more integrative approach to anything you are doing.
 
-![[NRP - Quadrants.webp]]
+![Quadrants](/Images/NRP%20-%20Quadrants.webp)
 
 -----------------
 
 # **Lines**
 
-![[NRP - Icon - Lines.webp|:linesemoji:]] **What Are Lines?**
+![Icon - Lines](/Images/NRP%20-%20Icon%20-%20Lines.webp) **What Are Lines?**
 
 Lines are specific domains of human development. Each line tracks growth in a particular area of capacity or potential, such as cognition, morality, self-identity, creativity, or emotional regulation. 
 Lines evolve through recognizable stages, but not all lines develop at the same pace.
@@ -270,42 +270,42 @@ The right side of the map compares 15 lines drawn from mainstream developmental 
 
 Each row illustrates how different researchers mapped the evolution of human development in their particular domain. Seeing them side by side helps highlight structural similarities across lines, even though they focus on different aspects of growth.
 
-![[NRP - Lines.webp]]
+![Lines](/Images/NRP%20-%20Lines.webp)
 
 ---------------
 
 # **States**
 
-![[NRP - Icon - States.webp|:statesemoji:]] **What Are States?**
+![Icon - States](/Images/NRP%20-%20Icon%20-%20States.webp) **What Are States?**
 
 In Non-Reductionist Philosophy, states refer to temporary conditions of consciousness. Unlike stages, which develop over time, or lines, which track growth in specific domains, states come and go — but they still matter. States influence how we think, feel, act, create, and interpret experience. They can be cultivated, regulated, trained, or triggered through different practices, environments, or substances.
 
 NRP recognizes that while states do not represent development on their own, the ability to access, navigate, and stabilize them can develop over time — in that sense, state training can become a developmental line in itself. More importantly, how we relate to, interpret, and apply state experiences is deeply shaped by our stage of development. Cultivating state awareness and regulation can support overall growth and transformation.
 
-![[NRP - States.webp]]
+![States](/Images/NRP%20-%20States.webp)
 
 
- ![[NRP - Icon - Affect.webp|:AFFECT:]] **Affect**
+ ![Icon - Affect](/Images/NRP%20-%20Icon%20-%20Affect.webp) **Affect**
 Domain: Emotions
 Description: Emotional states that color our immediate experience, including joy, grief, anger, fear, and love. These affective tones shape motivation and meaning, and learning to feel without collapse or denial is foundational to development.
 
-![[NRP - Icon - Flow.webp|:FLOW:]] **Flow**
+![Icon - Flow](/Images/NRP%20-%20Icon%20-%20Flow.webp) **Flow**
 Domain: Creativity
 Description: States of full-body immersion and focused momentum. Often accessed through art, music, movement, or performance. Flow dissolves the sense of time and self and unlocks spontaneous intelligence.
 
-![[NRP - Icon - Dream.webp|:DREAM2:]] **Dream**
+![Icon - Dream](/Images/NRP%20-%20Icon%20-%20Dream.webp) **Dream**
 Domain: Archetypal
 Description: Symbolic or mythic states arising in dreams, deep imagination, or subconscious imagery. These states tap into archetypes and inner narratives, offering insight or distortion depending on context and interpretation.
 
-![[NRP - Icon - Regulatory.webp|:DIS:]]  **Regulatory**
+![Icon - Regulatory](/Images/NRP%20-%20Icon%20-%20Regulatory.webp)  **Regulatory**
 Domain: Modulation
 Description: States related to self-regulation, including nervous system balance, cognitive clarity, and emotional containment. Includes stillness, alertness, grounding, and composure. Developing these states supports resilience and choice. Dysregulation occurs when the nervous system or emotional state overwhelms a person’s capacity to stay grounded, coherent, or responsive. This includes anxiety spikes, panic, dissociation, shutdown, rage, or emotional flooding.
 
- ![[NRP - Icon - Trained.webp|:TRAINED:]]  **Trained**
+ ![Icon - Trained](/Images/NRP%20-%20Icon%20-%20Trained.webp)  **Trained**
 Domain: Meditative
 Description: States achieved through disciplined attention such as meditation, breathwork, prayer, or long-term contemplative practice. These states can include stillness, absorption, or spacious awareness, and they often require structure and training to stabilize.
 
-  ![[NRP - Icon - Altered.webp|:ALTERED:]] **Altered**
+  ![Icon - Altered](/Images/NRP%20-%20Icon%20-%20Altered.webp) **Altered**
 Domain: Chemicals
 Description: Non-ordinary states induced by substances (psychedelics, stimulants, depressants). These states can be a tool for regulation or medical intervention, and the states they invoke can result in illumination or destabilization depending on context, setting, intention, and integration.
 
@@ -315,12 +315,12 @@ Description: Non-ordinary states induced by substances (psychedelics, stimulants
 
 
 
-![[NRP - Icon - Types.webp|:typesemoji:]] **What Are Types?**
+![Icon - Types](/Images/NRP%20-%20Icon%20-%20Types.webp) **What Are Types?**
 In Non-Reductionist Philosophy, types refer to recurring psychological patterns, temperaments, or cognitive styles that show up across individuals. 
 While not as rigorously grounded as developmental stages or domain-specific lines, types offer insight into our strategic defaults: how we process information, respond to challenge, and form identity.
 We approach types as useful heuristics, not absolute categories.
 
-![[NRP - Icon - NRP.webp|:NRPemoji:]] **A Tool for Integration, Not Reduction**
+![Icon - NRP](/Images/NRP%20-%20Icon%20-%20NRP.webp) **A Tool for Integration, Not Reduction**
 We don’t use types to box people in, but to honor natural tendencies and styles. The goal is not to reduce someone to a label but to offer a tool for recognizing patterns in ourselves and others. This helps us expand our range of integrated expression.
 Being “a type” is not a point of pride. If anything, it highlights where we may be off balance. A mature person is not defined by their dominant strategy but by how much they’ve grown beyond it. A healthy use of types means recognizing our patterns, integrating their strengths, and developing complementary capacities from other styles.
 
@@ -329,7 +329,7 @@ Typing is not just about identifying a category. Maturity affects how a type man
 A less mature version of a type may act out predictable stereotypes, fall into rigid roles, or cling to their label as identity. A more developed version of that same type may express more flexibility, embody the higher virtues of their pattern, and even resist the idea of being typed at all.
 This is important not just for type theory, but for all of psychology. Maturity shapes how we interpret ourselves and how we behave, regardless of our structural wiring.
 
-![[NRP - Types.webp]]
+![Types](/Images/NRP%20-%20Types.webp)
 
 
 🧙‍♂️ **Types as the Best Current Heuristic**
@@ -497,9 +497,6 @@ These are not all the typing systems that exist, but they’ve been chosen becau
 
 
 
-
-
-------------
 -------------
 
 
@@ -554,14 +551,14 @@ It's 3 main components are:
 
 # **Modes/Roles**
 
-![[NRP - Icon - Modes and Roles.webp|:modesemoji:]] **Modes/Roles**
+![Icon - Modes and Roles](/Images/NRP%20-%20Icon - Modes and Roles.webp) **Modes/Roles**
 Modes/Roles is the newest Element. 
 The point is conscious living through a "becoming" self mastery practice.
 The understanding is that we want to be intentional, skillful, and appropriate for the situation and our role within it. 
 
 We want to not only know how to get better at applying different modes but also have "mode flexibility" so we can switch to the mode that best fits the situation when the time is right.
 
-![[NRP - Modes.webp]]
+![Modes](/Images/NRP%20-%20Modes.webp)
 
 ----------------
 
@@ -603,15 +600,17 @@ To prevent partial or biased conclusions, Non-Reductionism uses Cross-Quadrant V
 Epistemology upgrade video: https://youtu.be/WCb6pLa3IFs?si=AVUsoBvrN73wvToU
 
 **4P4Z**
-![[NRP - 4P4Z.webp]]
+![4P4Z](/Images/NRP%20-%204P4Z.webp)
 
 **Epistemic Flow Chart**
-![[NRP - Epistemic Flow Chart.webp]]
+![Epistemic Flow Chart](/Images/NRP%20-%20Epistemic%20Flow%20Chart.webp)
 
 
 --------------
 
-The full map:
 
+# The Full Map
 
-![[!NRP - PRIMARY The-Non-Reductionist-Philosophy-Map-2025-v2.webp]]
+You can view the full map:
+
+![The Map](/Images/!NRP%20-%20PRIMARY%20The-Non-Reductionist-Philosophy-Map-2025-v2.webp)

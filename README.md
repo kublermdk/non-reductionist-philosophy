@@ -19,6 +19,7 @@ Note: The images (WebP compressed) are in the [Images](Images) folder.
 # **Main Explanation**
 
 
+
 Main links:
 
 1. https://linktr.ee/nonreductionism - A Link Tree with links to the main resources
@@ -36,25 +37,25 @@ Main links:
 # **The Non-Reductionist Philosophy Map**
 
 **Tools on the Map and How to Use Them**
-Here’s a quick guide to the main tools represented in the map and used throughout this server:
-6 Main Elements:
+Here’s a quick guide to the main tools represented in the map and used throughout this server: 
+6 Main Elements: 
 
-![[Images/NRP - Icon - Quadrants.webp|:Quademoji:]] **Quadrants**
+![Icon - Quadrants](/Images/NRP%20-%20Icon%20-%20Quadrants.webp) **Quadrants**
 Four irreducible aspect of reality: subjective, objective, cultural, and systemic. These help us locate any claim, idea, or phenomenon across experience and reality.
 
-![[Images/NRP - Icon - Levels, Spiral.webp|:Spiralemoji:]] **Levels**
+![Icon - Levels, Spiral](/Images/NRP%20-%20Icon%20-%20Levels,%20Spiral.webp) **Levels** 
 Developmental stages across personal and cultural evolution. These show how meaning-making grows over time, and how people interpret the world differently based on structure.
 
-![[Images/NRP - Icon - Lines.webp|:linesemoji:]] **Lines**
+![Icon - Lines](/Images/NRP%20-%20Icon%20-%20Lines.webp) **Lines**
 Specific domains of development (like morality, cognition, art, or identity). Each one grows through its own path of unfolding. This map includes "Multiple Intelligences" as well as 15 different lines explored by developmental psychologists.
 
-![[Images/NRP - Icon - States.webp|:statesemoji:]] **States**
+![Icon - States](/Images/NRP%20-%20Icon%20-%20States.webp) **States**
 Temporary modes of consciousness (like flow, dreams, or altered states). These are not developmental, but they are interpreted through developmental structure.
 
-![[Images/NRP - Icon - Types.webp|:typesemoji:]] **Types**
+![Icon - Types](/Images/NRP%20-%20Icon%20-%20Types.webp) **Types**
 Enduring patterns like personality, temperament, or orientation. (MBTI, Enneagram, OCEAN, etc.) It's important to understand how people express development differently.
 
-![[Images/NRP - Icon - Modes and Roles.webp|:modesemoji:]] **Modes & Roles**
+![Icon - Modes and Roles](/Images/NRP%20-%20Icon%20-%20Modes%20and%20Roles.webp) **Modes & Roles**
 How we act in the world: attention, willpower, focus, and our roles within systems. These are skills and postures we develop to engage with life intentionally.
 
 
@@ -63,16 +64,16 @@ How we act in the world: attention, willpower, focus, and our roles within syste
 
 **Quadratic Zoom & Scale**
 Quadrants scale in a fractal way.
-The "quadratic zoom" and "scale" distinctions help us describe how quadrant logic applies across different scopes:
-* macro (aspects of reality),
-* intermediate (projects within categories like metaphysics, life practice, morality, or governance),
+The "quadratic zoom" and "scale" distinctions help us describe how quadrant logic applies across different scopes: 
+* macro (aspects of reality), 
+* intermediate (projects within categories like metaphysics, life practice, morality, or governance), 
 * micro (subcategories within a project)
-* nano (raw data).
+* nano (raw data). 
 
-This helps us track what level we’re working at and how different kinds of knowledge must be contextualized to make sense.
-This map has an extra emphasis on "**Epistemology**" or methods of knowing.
+This helps us track what level we’re working at and how different kinds of knowledge must be contextualized to make sense. 
+This map has an extra emphasis on "**Epistemology**" or methods of knowing. 
 
-The following 2 tools
+The following 2 tools 
 **4P4Z**: **Four Primes in all Four Zones** This is the metaphysical backbone of Non-Reductionist Philosophy.
 
 It combines **four Prime Epistemologies** (ways of knowing) with **four Ontological Zones** (domains of reality), showing how truth claims emerge through different methods within distinct aspects of reality.
@@ -83,12 +84,12 @@ To ensure coherence, NRP uses **Cross-Quadrant Validation** (or tetra-validation
 This prevents partial or biased interpretations and supports deeper, multidimensional understanding.
 
 
-**Reasonable Limits of Knowledge**
+**Reasonable Limits of Knowledge** 
 Not all knowledge is equally accessible. This model distinguishes what is known, what is conditionally unknowable, and what is permanently unknowable. It helps us set appropriate expectations when making claims and reminds us that both humility and structure are necessary for navigating reality with clarity and care.
 
 The map also includes tools related to "Primacy" or understanding how the quadrants relate to each other or are valued differently depending on the project:
 
-![[Images/NRP - Icon - Nested Quadratic Holons.webp|:NQH:]] **Nested Quadratic Holons** (NQH)
+![Icon - Nested Quadratic Holons](/Images/NRP%20-%20Icon%20-%20Nested%20Quadratic%20Holons.webp) **Nested Quadratic Holons** (NQH)
 
 This tool shows how to properly nest domains of reality in relation to specific topics or projects. It helps us identify which aspects are more fundamental and how others must be nested within them depending on context.
 This prevents category errors and false equivalencies, and ensures that our models remain accurate, grounded, and practically usable.
@@ -96,19 +97,19 @@ This prevents category errors and false equivalencies, and ensures that our mode
 **Pyramid of Philosophical Primacy** (A NQH with more context) This is not just a list of domains. It is a hierarchy of sequence.
 The pyramid shows that philosophy must be done in the right order for its parts to work together. For example, you cannot define morality well without clarity in ontology and epistemology. If you begin with identity or aesthetics, the deeper layers are easily distorted. This tool helps us identify when a project is out of sync and how to realign it so each layer supports and grounds the next.
 
-This map is the central overview of Non-Reductionist Philosophy.
+This map is the central overview of Non-Reductionist Philosophy. 
 It brings together the core elements of the framework into a single, structured reference. It serves as both a teaching tool and a guide for navigating complexity. It helps us zoom in and out, connect ideas, and understand how different domains of knowledge and development fit together. This is the V2 of the NRP map and it is open to ongoing refinements and upgrades. Here is a link to the poster size version you can download: https://drive.google.com/file/d/1nKagyHiE0ufLBk6g9qZsFiraY5vpAiBe/view?usp=sharing
 
 ------------------
 
 # **Basic Principles**
-Also [available online](https://www.nonreductionism.org/principles)
-### **What is Non-Reductionism?**
+Also [available online](https://www.nonreductionism.org/principles) 
+### **What is Non-Reductionism?** 
 Non-Reductionism aka Non-Reductionist Philosophy, aka NRP, is a meta-framework for integrating knowledge, development, and meaning without collapsing one domain into another. It affirms that reality has irreducible dimensions such as biology, experience, culture, and systems, and each must be understood on its own terms. At its core, Non-Reductionism brings together emergence, context, interiority, and symbolic coherence, while remaining grounded in rational structure. It provides a way to see clearly without flattening complexity, and to care deeply without losing clarity. While accessible at many levels, the full power of Non-Reductionism depends on a developmental capacity to hold nuance, translate between worldviews, and recognize structure across perspectives.
 
 ### **Why does it matter?**
 Most worldviews like traditional, modern, or postmodern ideas reduce reality in some way. Some flatten meaning into material parts, others into personal experience or rigid dogma, and others into cultural relativism. They either ignore interior experience, deny developmental context, or reject the need for structure altogether. Non-Reductionism is the only framework that consistently avoids reduction at every level. It affirms that reality includes subjectivity, emergence, and symbolic depth, without abandoning clarity, coherence, or truth. In a world fragmented by partial perspectives, Non-Reductionism gives us the tools to see clearly, grow consciously, and build systems that honor the full complexity of life.
-
+    
 ### **Who is it for?**
 Non-Reductionism is for thinkers, leaders, creators, and systems designers who are ready for clarity without dogma. It’s for people who feel the pull toward coherence but refuse to settle for spiritual mysticism, cultural relativism, or scientific reduction. It’s for anyone who wants to engage in personal and cultural development responsibly, speak in symbols without confusion or compromising on grounded truth, and design systems that serve both structure and meaning. If you've outgrown simple answers but still want to live, build, and think with integrity, this is the philosophy you’ve been looking for.
 
@@ -136,24 +137,24 @@ Non-Reductionism is for thinkers, leaders, creators, and systems designers who a
     We are not just critics or commentators; we are builders of what is needed. Non-Reductionism is not just about noticing what's wrong or having complex ideas. It is about creating what is missing. Once we understand development, coherence, and context, the ethical response is action. That means participating in the design of systems, practices, and cultures that reflect what we’ve come to know. Whether through frameworks, education, art, or leadership, we move beyond critique and conversation into contribution. Insight is not enough. Integrity means building.
 
 
-![[Images/NRP -  David Comandments (principles).webp]]
+![ David Comandments (principles)](/Images/NRP%20-%20%20David%20Comandments%20(principles).webp)
 
 -------
 
 # **Levels** (aka Stages / Spiral Dynamics)
 
-**What Are Stages?**
-In Non-Reductionist Philosophy, stages are structural patterns of meaning-making.
-They shape how we interpret truth, identity, morality, and complexity.
-A stage is not just a belief system or a set of opinions.
-It is the underlying logic a person uses to make sense of the world.
-Stages are developmental. They emerge in sequence, each one solving the problems created by the previous stage.
-But they also introduce new limitations of their own.
+**What Are Stages?** 
+In Non-Reductionist Philosophy, stages are structural patterns of meaning-making. 
+They shape how we interpret truth, identity, morality, and complexity. 
+A stage is not just a belief system or a set of opinions. 
+It is the underlying logic a person uses to make sense of the world. 
+Stages are developmental. They emerge in sequence, each one solving the problems created by the previous stage. 
+But they also introduce new limitations of their own. 
 Each stage reflects a person’s capacity to organize experience, navigate contradictions, and respond to complexity.
 These structures are not always conscious.
 They operate like the operating system behind a worldview, shaping what a person is even capable of noticing, caring about, or understanding.
 
-![[Images/NRP - Levels (Stages).webp]]
+![Levels (Stages)](/Images/NRP%20-%20Levels%20(Stages).webp)
 
 
 ### How NRP Understands Stages Differently
@@ -161,7 +162,7 @@ NRP corrects several common confusions other meta-theories get wrong. Here are k
 
 1. Stages are structures, not identities,
 
-You are not "at" a stage as a fixed label. Rather, you have a center of gravity in a certain stage, but you may express different stages across different lines of development (such as cognition, values, ethics, identity).
+You are not "at" a stage as a fixed label. Rather, you have a center of gravity in a certain stage, but you may express different stages across different lines of development (such as cognition, values, ethics, identity). 
 Growth involves moving your center of gravity while integrating previous stages with discernment.
 
 2. Stages do not exist in isolation,
@@ -194,16 +195,16 @@ Many models refer to a major shift between 1st and 2nd Tier. This is not just a 
 - Recognizes that each stage is a valid structure with values that need to be integrated and vices that need overcome,
 - Uses discernment to choose appropriate responses,
 - Sees development itself as a real and necessary process,
-- Becomes capable of meta-cognition, trans-rational interpretation/translation, and integration across disciplines, perspectives, and word games
+- Becomes capable of meta-cognition, trans-rational interpretation/translation, and integration across disciplines, perspectives, and word games 
 
 NRP divides 2nd Tier more clearly than most systems: Yellow/Gold represent personal Integration with a focus on translation.
 
 **Yellow** is where discernment and structural complexity emerge but it's understood in an implicit way.
 **Gold** is where meta-theory and synthesis become explicit
-**Turquoise** focuses on collective integration and both translation and transformation creating new systems for the whole spiral.
-**Teal** reflects mature, unattached mastery in action.
+**Turquoise** focuses on collective integration and both translation and transformation creating new systems for the whole spiral. 
+**Teal** reflects mature, unattached mastery in action. 
 
-NRP also challenges the overuse of mystical or idealized language in other models and grounds the 2nd Tier shift in epistemic clarity, as a response to real life conditions and not vague spiritual elevation.
+NRP also challenges the overuse of mystical or idealized language in other models and grounds the 2nd Tier shift in epistemic clarity, as a response to real life conditions and not vague spiritual elevation. 
 
 ### Why Knowing About Stages Matters
 
@@ -240,15 +241,15 @@ In Non-Reductionist Philosophy, the quadrants represent 4 irreducible domains of
 
 3rd-person Systems, structures, technology, economies, institutions. Inter-Objective - known by systemic analysis These aren't just perspectives, they're real aspects of reality or "ontological zones". Why Does it matter? Most people talk about "truth" as if it's just one kind of thing! they don't make a distinction about the different types of truth and the different ways of knowing about them which is a huge problem. Also people tend to favor particular aspects of reality and neglect others, but when you know all of these aspects are important you are more likely to take a more integrative approach to anything you are doing.
 
-![[Images/NRP - Quadrants.webp]]
+![Quadrants](/Images/NRP%20-%20Quadrants.webp)
 
 -----------------
 
 # **Lines**
 
-![[Images/NRP - Icon - Lines.webp|:linesemoji:]] **What Are Lines?**
+![Icon - Lines](/Images/NRP%20-%20Icon%20-%20Lines.webp) **What Are Lines?**
 
-Lines are specific domains of human development. Each line tracks growth in a particular area of capacity or potential, such as cognition, morality, self-identity, creativity, or emotional regulation.
+Lines are specific domains of human development. Each line tracks growth in a particular area of capacity or potential, such as cognition, morality, self-identity, creativity, or emotional regulation. 
 Lines evolve through recognizable stages, but not all lines develop at the same pace.
 A person may be highly developed in one line (such as cognitive) while still immature in another (like interpersonal skills).
 That’s why we distinguish lines (domain-specific capacities) from levels (overall stage or center of gravity).
@@ -290,42 +291,42 @@ The right side of the map compares 15 lines drawn from mainstream developmental 
 
 Each row illustrates how different researchers mapped the evolution of human development in their particular domain. Seeing them side by side helps highlight structural similarities across lines, even though they focus on different aspects of growth.
 
-![[Images/NRP - Lines.webp]]
+![Lines](/Images/NRP%20-%20Lines.webp)
 
 ---------------
 
 # **States**
 
-![[Images/NRP - Icon - States.webp|:statesemoji:]] **What Are States?**
+![Icon - States](/Images/NRP%20-%20Icon%20-%20States.webp) **What Are States?**
 
 In Non-Reductionist Philosophy, states refer to temporary conditions of consciousness. Unlike stages, which develop over time, or lines, which track growth in specific domains, states come and go — but they still matter. States influence how we think, feel, act, create, and interpret experience. They can be cultivated, regulated, trained, or triggered through different practices, environments, or substances.
 
 NRP recognizes that while states do not represent development on their own, the ability to access, navigate, and stabilize them can develop over time — in that sense, state training can become a developmental line in itself. More importantly, how we relate to, interpret, and apply state experiences is deeply shaped by our stage of development. Cultivating state awareness and regulation can support overall growth and transformation.
 
-![[Images/NRP - States.webp]]
+![States](/Images/NRP%20-%20States.webp)
 
 
-![[Images/NRP - Icon - Affect.webp|:AFFECT:]] **Affect**
+ ![Icon - Affect](/Images/NRP%20-%20Icon%20-%20Affect.webp) **Affect**
 Domain: Emotions
 Description: Emotional states that color our immediate experience, including joy, grief, anger, fear, and love. These affective tones shape motivation and meaning, and learning to feel without collapse or denial is foundational to development.
 
-![[Images/NRP - Icon - Flow.webp|:FLOW:]] **Flow**
+![Icon - Flow](/Images/NRP%20-%20Icon%20-%20Flow.webp) **Flow**
 Domain: Creativity
 Description: States of full-body immersion and focused momentum. Often accessed through art, music, movement, or performance. Flow dissolves the sense of time and self and unlocks spontaneous intelligence.
 
-![[Images/NRP - Icon - Dream.webp|:DREAM2:]] **Dream**
+![Icon - Dream](/Images/NRP%20-%20Icon%20-%20Dream.webp) **Dream**
 Domain: Archetypal
 Description: Symbolic or mythic states arising in dreams, deep imagination, or subconscious imagery. These states tap into archetypes and inner narratives, offering insight or distortion depending on context and interpretation.
 
-![[Images/NRP - Icon - Regulatory.webp|:DIS:]]  **Regulatory**
+![Icon - Regulatory](/Images/NRP%20-%20Icon%20-%20Regulatory.webp)  **Regulatory**
 Domain: Modulation
 Description: States related to self-regulation, including nervous system balance, cognitive clarity, and emotional containment. Includes stillness, alertness, grounding, and composure. Developing these states supports resilience and choice. Dysregulation occurs when the nervous system or emotional state overwhelms a person’s capacity to stay grounded, coherent, or responsive. This includes anxiety spikes, panic, dissociation, shutdown, rage, or emotional flooding.
 
-![[Images/NRP - Icon - Trained.webp|:TRAINED:]]  **Trained**
+ ![Icon - Trained](/Images/NRP%20-%20Icon%20-%20Trained.webp)  **Trained**
 Domain: Meditative
 Description: States achieved through disciplined attention such as meditation, breathwork, prayer, or long-term contemplative practice. These states can include stillness, absorption, or spacious awareness, and they often require structure and training to stabilize.
 
-![[Images/NRP - Icon - Altered.webp|:ALTERED:]] **Altered**
+  ![Icon - Altered](/Images/NRP%20-%20Icon%20-%20Altered.webp) **Altered**
 Domain: Chemicals
 Description: Non-ordinary states induced by substances (psychedelics, stimulants, depressants). These states can be a tool for regulation or medical intervention, and the states they invoke can result in illumination or destabilization depending on context, setting, intention, and integration.
 
@@ -335,21 +336,21 @@ Description: Non-ordinary states induced by substances (psychedelics, stimulants
 
 
 
-![[Images/NRP - Icon - Types.webp|:typesemoji:]] **What Are Types?**
-In Non-Reductionist Philosophy, types refer to recurring psychological patterns, temperaments, or cognitive styles that show up across individuals.
+![Icon - Types](/Images/NRP%20-%20Icon%20-%20Types.webp) **What Are Types?**
+In Non-Reductionist Philosophy, types refer to recurring psychological patterns, temperaments, or cognitive styles that show up across individuals. 
 While not as rigorously grounded as developmental stages or domain-specific lines, types offer insight into our strategic defaults: how we process information, respond to challenge, and form identity.
 We approach types as useful heuristics, not absolute categories.
 
-![[Images/NRP - Icon - NRP.webp|:NRPemoji:]] **A Tool for Integration, Not Reduction**
+![Icon - NRP](/Images/NRP%20-%20Icon%20-%20NRP.webp) **A Tool for Integration, Not Reduction**
 We don’t use types to box people in, but to honor natural tendencies and styles. The goal is not to reduce someone to a label but to offer a tool for recognizing patterns in ourselves and others. This helps us expand our range of integrated expression.
 Being “a type” is not a point of pride. If anything, it highlights where we may be off balance. A mature person is not defined by their dominant strategy but by how much they’ve grown beyond it. A healthy use of types means recognizing our patterns, integrating their strengths, and developing complementary capacities from other styles.
 
 🌱 **Maturity Affects How Types Show Up**
-Typing is not just about identifying a category. Maturity affects how a type manifests, how it self-reports, and how it integrates.
+Typing is not just about identifying a category. Maturity affects how a type manifests, how it self-reports, and how it integrates. 
 A less mature version of a type may act out predictable stereotypes, fall into rigid roles, or cling to their label as identity. A more developed version of that same type may express more flexibility, embody the higher virtues of their pattern, and even resist the idea of being typed at all.
 This is important not just for type theory, but for all of psychology. Maturity shapes how we interpret ourselves and how we behave, regardless of our structural wiring.
 
-![[Images/NRP - Types.webp]]
+![Types](/Images/NRP%20-%20Types.webp)
 
 
 🧙‍♂️ **Types as the Best Current Heuristic**
@@ -400,7 +401,7 @@ Weaknesses / Cautions:
 - Most online tests are unreliable, leading to mistyping
 - Not scientifically validated in the way most academic models are
 - Self-reporting can be skewed by stage or social desirability
-  (e.g., Orange types prefer TJ answers, Green types favor FP-like ones)
+(e.g., Orange types prefer TJ answers, Green types favor FP-like ones)
 
 Our Take:
 When used properly, MBTI is one of the richest typing systems. It should not be dismissed because online quizzes are bad. It requires nuanced assessment, ideally by someone familiar with cognitive functions. Also, different stages and maturity levels influence both how a type is expressed and how someone reports themselves.
@@ -499,13 +500,13 @@ They are also relevant for understanding certain unintegrated behaviors in types
 🚫 **Why We Don’t Include Astrology**
 
 1. **Lack of Epistemic Grounding**
-   Astrology is based on the premise that the positions of celestial bodies at the time of one’s birth influence personality traits, tendencies, and life events. From a Non-Reductionist standpoint, this fails both ontological and epistemological tests. There is no mechanism by which distant stars or planetary alignments would causally affect individual psychological patterns in any meaningful or replicable way. It relies on overly generalized interpretations that fail to stand up to criticism.
+Astrology is based on the premise that the positions of celestial bodies at the time of one’s birth influence personality traits, tendencies, and life events. From a Non-Reductionist standpoint, this fails both ontological and epistemological tests. There is no mechanism by which distant stars or planetary alignments would causally affect individual psychological patterns in any meaningful or replicable way. It relies on overly generalized interpretations that fail to stand up to criticism. 
 
 2. **Astronomical Error**
-   Due to the precession of the equinoxes, the actual positions of the constellations have shifted over time. Most people who believe they are born under one sign were actually born under another, astronomically speaking. Astrology still uses the outdated geocentric system without correcting for this, making its base claims factually incorrect.
+Due to the precession of the equinoxes, the actual positions of the constellations have shifted over time. Most people who believe they are born under one sign were actually born under another, astronomically speaking. Astrology still uses the outdated geocentric system without correcting for this, making its base claims factually incorrect.
 
 3. **Pre-Rational**
-   NRP affirms that humans find meaning through symbols and narratives, but astrology blurs the line between symbolic meaning and causal explanation. While archetypes like “the warrior” or “the lover” may be valid metaphors, assigning those based on birth dates undermines both rational inquiry and trans-rational integrity. It encourages magical thinking rather than symbolic self-awareness. Astrology often encourages pre-rational interpretations, where people assign fate, personality, or compatibility to arbitrary factors. Its persistence is driven by popularity rather than validity.
+NRP affirms that humans find meaning through symbols and narratives, but astrology blurs the line between symbolic meaning and causal explanation. While archetypes like “the warrior” or “the lover” may be valid metaphors, assigning those based on birth dates undermines both rational inquiry and trans-rational integrity. It encourages magical thinking rather than symbolic self-awareness. Astrology often encourages pre-rational interpretations, where people assign fate, personality, or compatibility to arbitrary factors. Its persistence is driven by popularity rather than validity.
 
 Conclusion:
 Astrology may be fun or poetic, but it does not belong in a developmental or philosophical system that values epistemic clarity, coherence, and actionable insight. We choose not to include it, not out of bias against metaphor, but because it fails to meet any reasonable standard of validation.
@@ -517,9 +518,6 @@ These are not all the typing systems that exist, but they’ve been chosen becau
 
 
 
-
-
-------------
 -------------
 
 
@@ -536,9 +534,9 @@ The Love languages are what you might know as:
 4. **Gifts** (Receiving gifts)
 5. **Service** (Acts of service)
 
-Potential resources:
+Potential resources: 
 https://5lovelanguages.com/learn (although I can't seem to open this right now)
-https://www.verywellmind.com/can-the-five-love-languages-help-your-relationship-4783538
+https://www.verywellmind.com/can-the-five-love-languages-help-your-relationship-4783538 
 https://www.psychologytoday.com/us/blog/click-here-happiness/202009/what-are-the-5-love-languages-definition-and-examples
 
 
@@ -547,7 +545,7 @@ The Dark Triad refers to a cluster of three interconnected personality traits: n
 
 These are:
 **Narcissism** - Characterized by an inflated sense of self-importance, a need for admiration, and a lack of empathy.
-**Machiavellianism** - Marked by a manipulative and exploitative interpersonal style, a focus on self-interest, and a cynical view of others.
+**Machiavellianism** - Marked by a manipulative and exploitative interpersonal style, a focus on self-interest, and a cynical view of others. 
 **Psychopathy** - Involves a lack of empathy and remorse, impulsivity, antisocial behavior, and a tendency towards thrill-seeking
 
 While distinct, these traits share commonalities like emotional coldness, aggressiveness, and a tendency towards self-promotion. They are also associated with various negative outcomes, including antisocial behaviors and difficulties in forming and maintaining healthy relationships.
@@ -564,9 +562,9 @@ It represents a loving and beneficent orientation towards others, emphasizing th
 The theory is often framed as the opposite of the Dark Triad, and hinges on the belief that people are inherently good and should not be treated expediently.
 
 It's 3 main components are:
-1. **Faith in humanity** - This involves believing in the fundamental goodness and potential for positive actions within all people.
-2. **Humanism** - This focuses on the inherent value and worth of each individual, appreciating their unique qualities and potential.
-3. **Kantianism** - This refers to the principle of treating all individuals as ends in themselves, rather than as means to an end, according to Wikipedia. It emphasizes respect and dignity for all persons.
+1. **Faith in humanity** - This involves believing in the fundamental goodness and potential for positive actions within all people. 
+2. **Humanism** - This focuses on the inherent value and worth of each individual, appreciating their unique qualities and potential. 
+3. **Kantianism** - This refers to the principle of treating all individuals as ends in themselves, rather than as means to an end, according to Wikipedia. It emphasizes respect and dignity for all persons. 
 
 
 
@@ -574,14 +572,14 @@ It's 3 main components are:
 
 # **Modes/Roles**
 
-![[Images/NRP - Icon - Modes and Roles.webp|:modesemoji:]] **Modes/Roles**
-Modes/Roles is the newest Element.
+![Icon - Modes and Roles](/Images/NRP%20-%20Icon - Modes and Roles.webp) **Modes/Roles**
+Modes/Roles is the newest Element. 
 The point is conscious living through a "becoming" self mastery practice.
-The understanding is that we want to be intentional, skillful, and appropriate for the situation and our role within it.
+The understanding is that we want to be intentional, skillful, and appropriate for the situation and our role within it. 
 
 We want to not only know how to get better at applying different modes but also have "mode flexibility" so we can switch to the mode that best fits the situation when the time is right.
 
-![[Images/NRP - Modes.webp]]
+![Modes](/Images/NRP%20-%20Modes.webp)
 
 ----------------
 
@@ -603,7 +601,7 @@ These are mapped onto the Four Zones of reality, which represent the irreducible
 3. **Outer individual** (objective things)
 4. **Outer collective** (inter-objective systems)
 
-4P4Z shows how different disciplines tend to center on one of these zones, favoring the relevant methodology aligned with that domain. For example:
+4P4Z shows how different disciplines tend to center on one of these zones, favoring the relevant methodology aligned with that domain. For example: 
 
 **Psychology** focuses on subjectivity and primarily uses **phenomenology**
 
@@ -623,20 +621,19 @@ To prevent partial or biased conclusions, Non-Reductionism uses Cross-Quadrant V
 Epistemology upgrade video: https://youtu.be/WCb6pLa3IFs?si=AVUsoBvrN73wvToU
 
 **4P4Z**
-![[Images/NRP - 4P4Z.webp]]
+![4P4Z](/Images/NRP%20-%204P4Z.webp)
 
 **Epistemic Flow Chart**
-![[Images/NRP - Epistemic Flow Chart.webp]]
+![Epistemic Flow Chart](/Images/NRP%20-%20Epistemic%20Flow%20Chart.webp)
 
 
 --------------
 
-The full map:
 
+# The Full Map
 
-![[!NRP - PRIMARY The-Non-Reductionist-Philosophy-Map-2025-v2.webp]]
+You can view the full map:
 
-
-
+![The Map](/Images/!NRP%20-%20PRIMARY%20The-Non-Reductionist-Philosophy-Map-2025-v2.webp)
 
 
