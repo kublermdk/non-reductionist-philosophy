@@ -1,0 +1,17 @@
+Type,Nickname,Dominant_Function,Auxiliary_Function,Center
+INTJ,Architect,Ni,Te,Thinking
+INTP,Thinker,Ti,Ne,Thinking
+ENTJ,Commander,Te,Ni,Thinking
+ENTP,Debater,Ne,Ti,Thinking
+INFJ,Advocate,Ni,Fe,Feeling
+INFP,Mediator,Fi,Ne,Feeling
+ENFJ,Protagonist,Fe,Ni,Feeling
+ENFP,Campaigner,Ne,Fi,Feeling
+ISTJ,Logistician,Si,Te,Sensing
+ISFJ,Protector,Si,Fe,Sensing
+ESTJ,Executive,Te,Si,Sensing
+ESFJ,Consul,Fe,Si,Sensing
+ISTP,Virtuoso,Ti,Se,Sensing
+ISFP,Adventurer,Fi,Se,Sensing
+ESTP,Entrepreneur,Se,Ti,Sensing
+ESFP,Entertainer,Se,Fi,Sensing

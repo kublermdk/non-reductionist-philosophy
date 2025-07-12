@@ -1,0 +1,192 @@
+{
+  "Piaget": {
+    "stages": [
+      [
+        "Sensorimotor Stage",
+        "0-2 years",
+        "Learning through senses and motor actions; development of object permanence"
+      ],
+      [
+        "Preoperational Stage",
+        "2-7 years",
+        "Symbolic thinking emerges; egocentrism; struggles with conservation"
+      ],
+      [
+        "Concrete Operational",
+        "7-11 years",
+        "Logical thinking about concrete objects; understands conservation"
+      ],
+      [
+        "Formal Operational",
+        "11+ years",
+        "Abstract thinking; hypothetical reasoning; scientific thinking"
+      ]
+    ]
+  },
+  "Loevinger": {
+    "stages": [
+      [
+        "E1: Presocial/Symbiotic",
+        "Early infancy",
+        "Basic ego development; world consists of objects"
+      ],
+      [
+        "E2: Impulsive",
+        "Early childhood",
+        "Governed by impulses; 'I want' and 'mine'"
+      ],
+      [
+        "E3: Self-Protective",
+        "Childhood",
+        "First steps toward self-control; blame others"
+      ],
+      [
+        "E4: Conformist",
+        "Childhood/adolescence",
+        "Identifies with group; strong element of trust"
+      ],
+      [
+        "E5: Self-Aware",
+        "Adolescence/young adult",
+        "Aware of discrepancies between conventions and behavior"
+      ],
+      [
+        "E6: Conscientious",
+        "Young adult",
+        "Psychological development; goals and ideals emerge"
+      ],
+      [
+        "E7: Individualistic",
+        "Adult",
+        "Tolerance, inner conflicts, individuality acknowledged"
+      ],
+      [
+        "E8: Autonomous",
+        "Adult",
+        "Freedom from burdensome baggage of prior stages"
+      ],
+      [
+        "E9: Integrated",
+        "Mature adult",
+        "Fully worked identity; understanding of destiny"
+      ]
+    ]
+  },
+  "Maslow": {
+    "levels": [
+      [
+        "Physiological Needs",
+        "Basic survival",
+        "Food, water, shelter, sleep"
+      ],
+      [
+        "Safety Needs",
+        "Security",
+        "Physical safety, job security, health"
+      ],
+      [
+        "Love/Belonging",
+        "Social connection",
+        "Friendship, family, intimate relationships"
+      ],
+      [
+        "Esteem Needs",
+        "Recognition",
+        "Self-esteem, respect from others, achievement"
+      ],
+      [
+        "Self-Actualization",
+        "Personal growth",
+        "Realizing personal potential, peak experiences"
+      ],
+      [
+        "Cognitive Needs",
+        "Knowledge",
+        "Understanding, meaning, curiosity (later addition)"
+      ],
+      [
+        "Aesthetic Needs",
+        "Beauty",
+        "Appreciation of beauty and form (later addition)"
+      ],
+      [
+        "Transcendence",
+        "Beyond self",
+        "Helping others achieve self-actualization (later addition)"
+      ]
+    ]
+  },
+  "Kegan": {
+    "orders": [
+      [
+        "Order 1: Impulsive Mind",
+        "Early childhood",
+        "Dominated by impulses and perceptions; no separate self"
+      ],
+      [
+        "Order 2: Imperial Mind",
+        "Childhood/adolescence",
+        "Own needs/interests paramount; concrete thinking"
+      ],
+      [
+        "Order 3: Socializing Mind",
+        "Adolescence/adulthood",
+        "Internalize others' expectations; seek approval"
+      ],
+      [
+        "Order 4: Self-Authoring",
+        "Adulthood",
+        "Own values and principles; independent judgment"
+      ],
+      [
+        "Order 5: Self-Transforming",
+        "Mature adulthood",
+        "Paradox and contradiction; multiple perspectives"
+      ]
+    ]
+  },
+  "Erikson": {
+    "stages": [
+      [
+        "Trust vs. Mistrust",
+        "0-18 months",
+        "Basic trust in caregivers and world"
+      ],
+      [
+        "Autonomy vs. Shame",
+        "18 months-3 years",
+        "Developing independence and self-control"
+      ],
+      [
+        "Initiative vs. Guilt",
+        "3-5 years",
+        "Asserting control and power over environment"
+      ],
+      [
+        "Industry vs. Inferiority",
+        "5-12 years",
+        "Developing competence and skills"
+      ],
+      [
+        "Identity vs. Role Confusion",
+        "12-18 years",
+        "Developing sense of personal identity"
+      ],
+      [
+        "Intimacy vs. Isolation",
+        "18-40 years",
+        "Forming intimate relationships"
+      ],
+      [
+        "Generativity vs. Stagnation",
+        "40-65 years",
+        "Contributing to society and next generation"
+      ],
+      [
+        "Integrity vs. Despair",
+        "65+ years",
+        "Reflecting on life and accepting choices"
+      ]
+    ]
+  }
+}

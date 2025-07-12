@@ -1,0 +1,156 @@
+{
+  "overview": {
+    "purpose": "Guide for AI systems to identify developmental levels across multiple frameworks",
+    "total_frameworks": 13,
+    "assessment_complexity": {
+      "easy": [
+        "Piaget cognitive stages",
+        "Maslow needs hierarchy",
+        "Erikson psychosocial stages"
+      ],
+      "medium": [
+        "Loevinger ego development",
+        "Fowler faith stages",
+        "Kegan orders",
+        "Commons complexity"
+      ],
+      "hard": [
+        "Joiner leadership agility",
+        "Fischer dynamic skills",
+        "Torbert action logics",
+        "Cook-Greuter extended",
+        "O'Fallon STAGES",
+        "Gebser consciousness"
+      ]
+    }
+  },
+  "assessment_indicators": {
+    "cognitive_indicators": {
+      "concrete_thinking": "Piaget preoperational/concrete; Commons lower orders",
+      "abstract_thinking": "Piaget formal operational; Commons higher orders",
+      "systems_thinking": "Kegan self-authoring; Joiner catalyst; Torbert strategist",
+      "paradoxical_thinking": "Kegan self-transforming; Cook-Greuter construct-aware; O'Fallon metaware"
+    },
+    "ego_indicators": {
+      "conformist_patterns": "Loevinger conformist; Kegan socializing; Torbert diplomat",
+      "self_authored_identity": "Loevinger conscientious; Kegan self-authoring; Torbert achiever",
+      "post_conventional": "Loevinger autonomous/integrated; Kegan self-transforming; Cook-Greuter construct-aware"
+    },
+    "leadership_indicators": {
+      "rule_following": "Joiner expert; Torbert expert",
+      "goal_achievement": "Joiner achiever; Torbert achiever",
+      "transformation_focus": "Joiner catalyst; Torbert strategist/alchemist",
+      "collaborative_approach": "Joiner co-creator/synergist; Torbert strategist"
+    },
+    "meaning_making_indicators": {
+      "literal_interpretation": "Fowler mythic-literal; Gebser mythical deficient",
+      "conventional_faith": "Fowler synthetic-conventional; Gebser mental",
+      "individual_reflection": "Fowler individuative-reflective; Gebser mental efficient",
+      "paradox_acceptance": "Fowler conjunctive; Gebser integral; O'Fallon metaware"
+    }
+  },
+  "assessment_methods": {
+    "linguistic_analysis": {
+      "sentence_completion": [
+        "Loevinger WUSCT",
+        "Cook-Greuter SCTi",
+        "O'Fallon STAGES"
+      ],
+      "interview_patterns": [
+        "Kegan Subject-Object Interview",
+        "Fowler faith interviews"
+      ],
+      "complexity_scoring": [
+        "Commons hierarchical complexity scoring"
+      ]
+    },
+    "behavioral_observation": {
+      "problem_solving": [
+        "Piaget conservation tasks",
+        "Fischer skill assessments"
+      ],
+      "social_interaction": [
+        "Erikson psychosocial functioning",
+        "Torbert action inquiry"
+      ],
+      "leadership_behavior": [
+        "Joiner agility assessment",
+        "Torbert action logics"
+      ]
+    },
+    "self_report_measures": {
+      "needs_assessment": [
+        "Maslow hierarchy questionnaires"
+      ],
+      "values_clarification": [
+        "Kegan meaning-making systems"
+      ],
+      "consciousness_mapping": [
+        "Gebser structure identification"
+      ]
+    }
+  },
+  "integration_guidelines": {
+    "multi_line_assessment": {
+      "principle": "Assess multiple developmental lines simultaneously",
+      "approach": "Individual may be at different levels across different domains",
+      "caution": "Avoid reducing complex development to single number/stage"
+    },
+    "cultural_considerations": {
+      "principle": "Development manifests differently across cultures",
+      "approach": "Adapt assessment methods for cultural context",
+      "caution": "Western frameworks may not fully capture non-Western development"
+    },
+    "individual_variation": {
+      "principle": "Significant individual differences in developmental pathways",
+      "approach": "Look for patterns rather than rigid stage assignment",
+      "caution": "Avoid deterministic predictions based on current level"
+    }
+  },
+  "practical_applications": {
+    "education": {
+      "student_assessment": "Match learning approaches to developmental levels",
+      "teacher_development": "Support educator growth across multiple lines",
+      "curriculum_design": "Align content with cognitive and meaning-making capacities"
+    },
+    "leadership_development": {
+      "assessment": "Identify current leadership agility and action logics",
+      "development": "Provide stage-appropriate challenges and supports",
+      "succession": "Match roles to developmental complexity requirements"
+    },
+    "therapeutic_intervention": {
+      "assessment": "Understand client meaning-making and ego development",
+      "treatment": "Adapt therapeutic approaches to developmental level",
+      "growth": "Support movement toward greater complexity and integration"
+    },
+    "organizational_development": {
+      "culture_assessment": "Evaluate collective developmental center of gravity",
+      "change_management": "Design interventions matching developmental capacity",
+      "team_formation": "Consider developmental diversity in team composition"
+    }
+  },
+  "ai_implementation_notes": {
+    "data_requirements": [
+      "Longitudinal assessment data for validation",
+      "Cross-cultural samples for framework adaptation",
+      "Multi-modal data (text, behavior, self-report)"
+    ],
+    "algorithmic_considerations": [
+      "Machine learning models for pattern recognition",
+      "Natural language processing for meaning-making analysis",
+      "Behavioral analytics for developmental indicators"
+    ],
+    "ethical_guidelines": [
+      "Transparent assessment criteria and methods",
+      "Individual control over developmental data",
+      "Emphasis on growth potential rather than limitations",
+      "Protection against discriminatory applications"
+    ],
+    "validation_requirements": [
+      "Correlation with expert human assessments",
+      "Predictive validity for relevant outcomes",
+      "Cross-cultural and demographic validation",
+      "Longitudinal stability and change sensitivity"
+    ]
+  }
+}
